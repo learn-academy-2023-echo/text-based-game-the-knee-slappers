@@ -56,6 +56,5 @@ choice = gets
         puts ''
         puts lose_game
         
-    end
+    end 
 
-    
